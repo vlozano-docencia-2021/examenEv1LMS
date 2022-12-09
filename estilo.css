@@ -4,5 +4,8 @@ img {
 }
 header{
 	background: radial-gradient(white, lightblue);
-
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
 }
