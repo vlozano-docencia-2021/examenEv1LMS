@@ -9,3 +9,10 @@ header{
 	align-items: center;
 	justify-content: center;
 }
+section{
+	background: lightcyan;
+}
+header, section{
+	border-bottom: 5px solid black;
+}
+
