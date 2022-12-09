@@ -36,7 +36,13 @@ header, section{
 }
 .tarjeta{
 	background-color: lightblue;
-	margin: 5px;
+	margin: 10px;
+	border-radius: 5%;
+	box-shadow: 0 0 10px 0 grey;
+	width: 120px;
+}
+.cartel{
+	border-radius: 5%;
 }
 table, td, th{
 	border-collapse: collapse;
