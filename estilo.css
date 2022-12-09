@@ -15,4 +15,12 @@ section{
 header, section{
 	border-bottom: 5px solid black;
 }
+.carrusel{
+	display: flex;
+	flex-direction: row;
+}
+.tarjeta{
+	background-color: lightblue;
+	margin: 5px;
+}
 
