@@ -35,6 +35,11 @@ header, section{
 .carrusel{
 	display: flex;
 	flex-direction: row;
+	overflow: auto;
+	/* 
+	a) flex-wrap: wrap; 
+	b) overflow: hidden;	
+	*/
 }
 .tarjeta{
 	background-color: lightblue;
