@@ -23,4 +23,14 @@ header, section{
 	background-color: lightblue;
 	margin: 5px;
 }
+table, td, th{
+	border-collapse: collapse;
+}
+td, th{
+	border: 1px solid black;
+	
+}
+td:nth-child(1){
+	border: unset;
+}
 
