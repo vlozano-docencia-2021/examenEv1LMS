@@ -73,4 +73,7 @@ td:nth-child(1){
 td:hover{
 	font-size: 20px;
 }
-
+a{
+	text-decoration: unset;
+	color: unset;
+}
