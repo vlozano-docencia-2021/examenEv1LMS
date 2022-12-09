@@ -61,4 +61,11 @@ td, th{
 td:nth-child(1){
 	border: unset;
 }
+.tarjeta:hover{
+	background-color: black;
+	color: lightblue;
+}
+td:hover{
+	font-size: 20px;
+}
 
