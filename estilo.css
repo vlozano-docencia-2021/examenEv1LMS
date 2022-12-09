@@ -26,9 +26,14 @@ header, section{
 table, td, th{
 	border-collapse: collapse;
 }
+th{
+	background-color: lightblue;
+}
 td, th{
 	border: 1px solid black;
-	
+	text-align: center;
+	width: 200px;
+	height: 50px;
 }
 td:nth-child(1){
 	border: unset;
