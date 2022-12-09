@@ -2,3 +2,7 @@ img {
 	width: 120px;
 	height: 178px;
 }
+header{
+	background: radial-gradient(white, lightblue);
+
+}
